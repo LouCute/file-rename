@@ -1,5 +1,4 @@
-# file-rename
-File Rename Python
+# File-rename in Python
 
 # Fil rename + file in sub folder
 Lauch:
